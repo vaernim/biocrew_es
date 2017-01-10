@@ -1,0 +1,75 @@
+Nov  2 10:09:45 10.72.10.130 tmp78062483-6274 Connection from 10.72.10.130 port 51759
+Nov  2 10:09:45 10.72.10.130 tmp78062483-6274 Accepted password for tmp78062483-6274 from 10.72.10.130 port 51759 ssh2
+Nov  2 11:15:55 10.72.10.130 tmp78062483-6274 Connection closed by 10.72.10.130
+Nov  2 21:53:51 10.72.10.129 tmp78062483-9977 Connection from 10.72.10.129 port 56507
+Nov  2 21:53:51 10.72.10.129 tmp78062483-9977 Accepted password for tmp78062483-9977 from 10.72.10.129 port 56507 ssh2
+Nov  2 22:55:17 10.72.10.129 tmp78062483-9977 Connection closed by 10.72.10.129
+Nov  3 12:48:01 10.72.10.128 tmp78062483-1000 Connection from 10.72.10.128 port 61887
+Nov  3 12:48:01 10.72.10.128 tmp78062483-1000 Accepted password for tmp78062483-1000 from 10.72.10.128 port 61887 ssh2
+Nov  3 12:51:15 10.72.10.128 tmp78062483-283 Connection from 10.72.10.128 port 62818
+Nov  3 12:51:15 10.72.10.128 tmp78062483-283 Accepted password for tmp78062483-283 from 10.72.10.128 port 62818 ssh2
+Nov  3 13:49:46 10.72.10.128 tmp78062483-1000 Connection closed by 10.72.10.128
+Nov  3 13:53:10 10.72.10.128 tmp78062483-283 Connection closed by 10.72.10.128
+Nov  4 10:26:54 81.9.149.40 u78062483 Connection from 81.9.149.40 port 55363
+Nov  4 10:26:58 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 55363 ssh2
+Nov  4 10:26:58 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 55363 ssh2
+Nov  4 10:26:58 81.9.149.40 u78062483 Failed password for u78062483 from 81.9.149.40 port 55363 ssh2
+Nov  4 10:27:06 81.9.149.40 u78062483 Connection from 81.9.149.40 port 37199
+Nov  4 10:27:07 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 37199 ssh2
+Nov  4 10:27:07 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 37199 ssh2
+Nov  4 10:27:07 81.9.149.40 u78062483 Failed password for u78062483 from 81.9.149.40 port 37199 ssh2
+Nov  4 10:28:01 81.9.149.40 u78062483 Connection from 81.9.149.40 port 33577
+Nov  4 10:28:02 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 33577 ssh2
+Nov  4 10:28:02 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 33577 ssh2
+Nov  4 10:28:02 81.9.149.40 u78062483 Accepted password for u78062483 from 81.9.149.40 port 33577 ssh2
+Nov  4 09:28:02 81.9.149.40 u78062483 SFTP session started in /kunden/homepages/43/d538289680/htdocs
+Nov  4 09:28:02 81.9.149.40 u78062483 Client version 3
+Nov  4 10:30:22 81.9.149.40 u78062483 Connection from 81.9.149.40 port 48242
+Nov  4 10:30:23 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 48242 ssh2
+Nov  4 10:30:23 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 48242 ssh2
+Nov  4 10:30:23 81.9.149.40 u78062483 Accepted password for u78062483 from 81.9.149.40 port 48242 ssh2
+Nov  4 09:30:24 81.9.149.40 u78062483 SFTP session started in /kunden/homepages/43/d538289680/htdocs
+Nov  4 09:30:24 81.9.149.40 u78062483 Client version 3
+Nov  4 10:31:20 188.171.32.92 u78062483 Connection from 188.171.32.92 port 50192
+Nov  4 10:31:22 188.171.32.92 u78062483 Failed password for u78062483 from 188.171.32.92 port 50192 ssh2
+Nov  4 10:31:27 188.171.32.92 u78062483 Connection from 188.171.32.92 port 50193
+Nov  4 10:31:28 188.171.32.92 u78062483 Failed password for u78062483 from 188.171.32.92 port 50193 ssh2
+Nov  4 10:31:34 81.9.149.40 u78062483 Connection closed by 81.9.149.40
+Nov  4 10:31:40 188.171.32.92 u78062483 Connection from 188.171.32.92 port 50198
+Nov  4 10:31:41 188.171.32.92 u78062483 Failed password for u78062483 from 188.171.32.92 port 50198 ssh2
+Nov  4 10:33:05 81.9.149.40 u78062483 Connection from 81.9.149.40 port 46166
+Nov  4 10:33:06 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 46166 ssh2
+Nov  4 10:33:05 81.9.149.40 u78062483 Connection from 81.9.149.40 port 56402
+Nov  4 10:33:06 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 56402 ssh2
+Nov  4 10:33:06 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 46166 ssh2
+Nov  4 10:33:06 81.9.149.40 u78062483 Failed publickey for u78062483 from 81.9.149.40 port 56402 ssh2
+Nov  4 10:33:06 81.9.149.40 u78062483 Accepted password for u78062483 from 81.9.149.40 port 46166 ssh2
+Nov  4 10:33:06 81.9.149.40 u78062483 Accepted password for u78062483 from 81.9.149.40 port 56402 ssh2
+Nov  4 09:33:06 81.9.149.40 u78062483 SFTP session started in /kunden/homepages/43/d538289680/htdocs
+Nov  4 09:33:06 81.9.149.40 u78062483 Client version 3
+Nov  4 09:33:06 81.9.149.40 u78062483 SFTP session started in /kunden/homepages/43/d538289680/htdocs
+Nov  4 09:33:06 81.9.149.40 u78062483 Client version 3
+Nov  4 10:37:36 81.9.149.40 u78062483 Connection closed by 81.9.149.40
+Nov  4 10:37:36 81.9.149.40 u78062483 Connection closed by 81.9.149.40
+Nov  4 11:25:02 188.171.32.92 u78062483 Connection from 188.171.32.92 port 50546
+Nov  4 11:25:06 188.171.32.92 u78062483 Accepted password for u78062483 from 188.171.32.92 port 50546 ssh2
+Nov  4 10:25:06 188.171.32.92 u78062483 SFTP session started in /kunden/homepages/43/d538289680/htdocs
+Nov  4 10:25:06 188.171.32.92 u78062483 Client version 3
+Nov  4 11:49:16 188.171.32.92 u78062483 Connection from 188.171.32.92 port 50781
+Nov  4 11:49:17 188.171.32.92 u78062483 Accepted password for u78062483 from 188.171.32.92 port 50781 ssh2
+Nov  4 10:49:17 188.171.32.92 u78062483 SFTP session started in /kunden/homepages/43/d538289680/htdocs
+Nov  4 10:49:18 188.171.32.92 u78062483 Client version 3
+Nov  4 11:50:18 188.171.32.92 u78062483 Connection closed by 188.171.32.92
+Nov  4 11:50:19 188.171.32.92 u78062483 Connection from 188.171.32.92 port 50785
+Nov  4 11:50:20 188.171.32.92 u78062483 Accepted password for u78062483 from 188.171.32.92 port 50785 ssh2
+Nov  4 10:50:20 188.171.32.92 u78062483 SFTP session started in /kunden/homepages/43/d538289680/htdocs
+Nov  4 10:50:20 188.171.32.92 u78062483 Client version 3
+Nov  4 11:51:47 188.171.32.92 u78062483 Connection closed by 188.171.32.92
+Nov  4 11:55:44 188.171.32.92 u78062483 Connection from 188.171.32.92 port 50907
+Nov  4 11:55:46 188.171.32.92 u78062483 Accepted password for u78062483 from 188.171.32.92 port 50907 ssh2
+Nov  4 10:55:47 188.171.32.92 u78062483 SFTP session started in /kunden/homepages/43/d538289680/htdocs
+Nov  4 10:55:47 188.171.32.92 u78062483 Client version 3
+Nov  4 11:57:03 188.171.32.92 u78062483 Connection closed by 188.171.32.92
+Nov  4 12:26:57 188.171.32.92 u78062483 Connection closed by 188.171.32.92
+Nov  4 19:43:56 10.72.10.130 tmp78062483-6996 Connection from 10.72.10.130 port 59583
+Nov  4 19:43:56 10.72.10.130 tmp78062483-6996 Accepted password for tmp78062483-6996 from 10.72.10.130 port 59583 ssh2
