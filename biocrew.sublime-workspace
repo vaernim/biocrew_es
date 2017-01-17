@@ -3,6 +3,10 @@
 	{
 		"selected_items":
 		[
+			[
+				"Health",
+				"Healthcare"
+			]
 		]
 	},
 	"buffers":
@@ -11,7 +15,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 31588,
+				"buffer_size": 34968,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -25,9 +29,17 @@
 	"command_palette":
 	{
 		"height": 384.0,
-		"last_filter": "",
+		"last_filter": "rein",
 		"selected_items":
 		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
 			[
 				"ins",
 				"Package Control: Install Package"
@@ -63,7 +75,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -103,26 +115,27 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 31588,
+						"buffer_size": 34968,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1500,
-								1500
+								0,
+								0
 							]
 						],
 						"settings":
 						{
+							"auto_complete": false,
 							"color_scheme": "Packages/User/Color Highlighter/themes/Agila Dracula (SL).tmTheme",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 3.0,
-						"translation.y": 28.0,
+						"translation.y": 3827.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -133,7 +146,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -170,7 +183,7 @@
 	"project": "biocrew.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
