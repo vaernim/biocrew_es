@@ -8,7 +8,6 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 /*QUIEN*/
 
 /*
@@ -97,6 +96,30 @@ filter: grayscale(100%);
     vertical-align: bottom;
     margin-bottom: 10px;
 }
+.subscribe img{
+    margin-top: 10px;
+    margin-bottom: 10px; }
+
+/* filtros imagen */
+
+img.grayscale:hover {
+  -webkit-filter: grayscale(0%);
+  -webkit-transition: .3s ease-in-out;
+  -moz-filter: grayscale(0%);
+  -moz-transition: .3s ease-in-out;
+  -o-filter: grayscale(0%);
+  -o-transition: .3s ease-in-out;
+} 
+
+img.grayscale {
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: .3s ease-in-out;
+  -moz-filter: grayscale(100%); 
+  -moz-transition: .3s ease-in-out;
+  -o-filter: grayscale(100%); 
+  -o-transition: .3s ease-in-out;
+}
+
 /** TWITTER **/
 
 a.twitter-timeline {
@@ -118,6 +141,12 @@ a.twitter-timeline {
 a.twitter-timeline:hover,
 a.twitter-timeline:focus {
     background-color: #dedede;
+}
+
+/* centrar imagen menú*/
+.top-image {
+    vertical-align: text-top;
+    margin-top: -2px;
 }
 
 

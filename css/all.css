@@ -322,7 +322,7 @@ p {
     padding: 32px 0 0; }
 
 .area {
-  padding: 77px 0 47px;
+  padding: 40px 0 50px;
   background: #F1F1F1; }
   .area h2 {
     margin: 0 0 28px;
@@ -658,10 +658,10 @@ p {
   margin: -30px 17px 0 0;
   text-align: right;
   white-space: nowrap; }
-  .subscribe h3 {
+  .subscribe h5 {
     margin: 0 15px;
-    float: right;
-    font-size: 3rem;
+    float: left;
+    font-size: 2rem;
     line-height: 1.4;
     font-weight: bold;
     color: #635C73; }
@@ -1003,7 +1003,8 @@ p {
     font-size: 3rem;
     line-height: 1.2;
     float: none;
-    margin: 0 0 44px; }
+    margin: 0 0 44px; 
+    text-align: left;}
 
   .main h3 {
     margin: 0 0 26px; }
@@ -1199,8 +1200,10 @@ p {
   .subscribe h3 {
     font-size: 2rem;
     line-height: 1.3;
-    margin: 0 0 20px; }
-
+    margin: 0 0 20px; 
+      text-align: left;
+    }
+    
   .main .content {
     padding: 0; }
 

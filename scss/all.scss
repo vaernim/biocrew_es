@@ -752,8 +752,8 @@ p {
 }
 .subscribe {
 	margin: -30px 17px 0 0;
-	text-align: right;
 	white-space: nowrap;
+    text-align: left;
 
 	h3 {
 		margin: 0 15px;
@@ -762,6 +762,7 @@ p {
 		line-height: 1.4;
 		font-weight: bold;
 		color: #635C73;
+        text-align: left !important;
 	}
 	.form-group {
 		overflow: hidden;
